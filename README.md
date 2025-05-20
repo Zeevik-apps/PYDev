@@ -1,12 +1,13 @@
-# GitHub MCP Client Setup Guide
+# PYDev Project
 
-## Prerequisites
-- Windows OS
-- Docker Desktop
-- Node.js and npm
-- GitHub account with Personal Access Token (PAT)
+This repository contains a collection of sample code files demonstrating various programming concepts.
 
-## Installation Steps
+## Project Structure
+
+- `htmlSample.html` - HTML template example
+- `jsconfig.json.txt` - JavaScript configuration
+- `jsSample.js` - JavaScript code sample
+- `pythonSample.py` - Python script example
 
 ### 1. Install MCP Client
 ```powershell
